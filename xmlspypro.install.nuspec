@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>xmlspypro</id>
+    <version>2019.3.1</version>
+    <packageSourceUrl>https://github.com/camilohe/xmlspypro.install</packageSourceUrl>
+    <owners>camilohe</owners>
+    <title>Altova XMLSpy 2019 Professional (Install)</title>
+    <authors>Altova</authors>
+    <projectUrl>http://www.altova.com/xmlspy.html</projectUrl>
+    <licenseUrl>http://www.altova.com/eula.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>xmlspy altova 2019 xmlspypro trial</tags>
+    <description>
+    XMLSpy is the industry’s best selling XML editor and development environment for all XML-related technologies. It offers the world’s leading schema designer, code generation, file converters, debuggers, profilers, full database integration, support for XSD, XSLT, XPath, XQuery, WSDL, SOAP, XBRL, and Office Open XML, and much more.
+
+    **Note:** The software *must* be activated before use. You can request a free 30 day trial key from the activation wizard.
+    </description>
+  </metadata>
+</package>
