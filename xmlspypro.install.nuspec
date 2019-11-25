@@ -17,4 +17,7 @@
     **Note:** The software *must* be activated before use. You can request a free 30 day trial key from the activation wizard.
     </description>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>
